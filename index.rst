@@ -222,3 +222,6 @@ Made with ❤️  by `Mac Gallagher <https://github.com/mac-gallagher>`_
 
 (Graphic designed by `Mazen Ghani <mailto:mghani@uwm.edu>`_)
 
+(Read the docs by `Doug Purcell <mailto:purcellconsult@gmail.com>`_)
+
+
